@@ -1,2 +1,2 @@
 # Bubble-Sort
-Bubble sort of randomized array of integers.
+Performs bubble sort on randomized array of integers.
